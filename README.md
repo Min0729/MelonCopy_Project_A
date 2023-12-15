@@ -23,10 +23,10 @@ HTML5, CSS3, JavaScript <br>
   
   <tr>
     <td>
-      <img src="https://github.com/Min0729/MelonCopy_Project_A/assets/119486666/cbb74dee-68f0-43f2-a7e0-554f442f1522" width="400px">
+      <img src="https://github.com/Min0729/MelonCopy_Project_A/assets/119486666/cbb74dee-68f0-43f2-a7e0-554f442f1522">
     </td>
     <td>
-      <img src="https://github.com/Min0729/MelonCopy_Project_A/assets/119486666/7dd6445a-c106-4630-b301-4c7297150356" width="400px">
+      <img src="https://github.com/Min0729/MelonCopy_Project_A/assets/119486666/7dd6445a-c106-4630-b301-4c7297150356">
     </td>
   </tr>
 </table>
