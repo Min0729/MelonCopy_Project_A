@@ -4,13 +4,13 @@ Demo <br>
 https://kevinbj0.github.io/MelonCopy_Project_A/Melon_%EC%B5%9C%EC%A2%85/%EB%A9%9C%EB%A1%A0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Main/index.html
 
 ## 💻프로젝트 소개
-학원에서 HTML5, CSS3, JavaScript를 배운지 한달 되었을 때 멜론 홈페이지를 카피한 프론트엔드 프로젝트입니다. <br>
+학원에서 HTML5, CSS3, JavaScript를 배운지 한달 되었을 때 멜론 홈페이지를 카피한 프론트엔드 프로젝트입니다. <br> <br>
 
 ## 🕜개발 기간
-2023.07.07 ~ 2023.07.14 (7일) <br>
+2023.07.07 ~ 2023.07.14 (7일) <br><br>
 
 ## ⚙️사용 기술
-HTML5, CSS3, JavaScript <br>
+HTML5, CSS3, JavaScript <br><br>
 
 ## 🙋‍♀️맡은 부분
 멜론 홈페이지에서 앨범을 눌렀을 때 나오는 앨범 정보 페이지를 맡았습니다. <br>
