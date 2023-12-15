@@ -1,4 +1,4 @@
-#Melon Copy Front-End Project
+# Melon Copy Front-End Project
 <hr>
 Demo <br>
 https://kevinbj0.github.io/MelonCopy_Project_A/Melon_%EC%B5%9C%EC%A2%85/%EB%A9%9C%EB%A1%A0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Main/index.html
@@ -23,10 +23,10 @@ HTML5, CSS3, JavaScript <br>
   
   <tr>
     <td>
-      <img src="https://github.com/Min0729/MelonCopy_Project_A/assets/119486666/cbb74dee-68f0-43f2-a7e0-554f442f1522">
+      <img src="https://github.com/Min0729/MelonCopy_Project_A/assets/119486666/cbb74dee-68f0-43f2-a7e0-554f442f1522" width="400px">
     </td>
     <td>
-      <img src="https://github.com/Min0729/MelonCopy_Project_A/assets/119486666/7dd6445a-c106-4630-b301-4c7297150356">
+      <img src="https://github.com/Min0729/MelonCopy_Project_A/assets/119486666/7dd6445a-c106-4630-b301-4c7297150356" width="400px">
     </td>
   </tr>
 </table>
